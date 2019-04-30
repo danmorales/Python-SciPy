@@ -22,3 +22,4 @@ integral2 = integrate.nquad(f1, [bounds_y, bounds_x])
 
 print("Integral2 (numérica) ",integral2[0])
 print("Integral2 (analítica) ",1.0/15.0)
+

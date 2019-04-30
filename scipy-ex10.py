@@ -52,3 +52,4 @@ detB = linalg.det(B)
 
 print("Determinante A= ",detA)
 print("Determinante B= ",detB)
+
